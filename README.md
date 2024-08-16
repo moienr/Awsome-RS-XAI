@@ -8,12 +8,13 @@ Feel free to contribute to this repository by creating a pull request.
 
 ## Table of Contents
 
-- [XAI Basics](#xai-basics)
-    - [Resources/Cheatsheets](#basics-resourcescheatsheets)
-    - [Books](#basics-books)
-    - [Courses and Workshops](#basics-courses-and-workshops)
-    - [Papers](#basics-papers)
-    - [Articles](#basics-articles)
+- [XAI Basics](#xai-basics) Non-remote sensing specific resources for starting with XAI.
+    - [Basics: Resources/Cheatsheets](#basics-resourcescheatsheets)
+    - [Basics: Books](#basics-books)
+    - [Basics: Courses and Workshops](#basics-courses-and-workshops)
+    - [Basics: Papers](#basics-papers)
+    - [Basics: Articles](#basics-articles)
+
 - [Courses and Workshops](#courses-and-workshops)
 
 - [Papers](#papers)
@@ -24,6 +25,7 @@ Feel free to contribute to this repository by creating a pull request.
 
 
 ## XAI Basics
+This section contains non-remote sensing specific resources for starting with XAI.
 
 ### Basics: Resources/Cheatsheets
 
