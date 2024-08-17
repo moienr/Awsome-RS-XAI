@@ -61,11 +61,15 @@ This section contains non-remote sensing specific resources for starting with XA
 
 ### Basics: Papers
 
+|Title|Authors|Link|Description|
+|-----|-------|----|-----------|
+|Examples are not enough, learn to criticize! Criticism for Interpretability| [Link](https://papers.nips.cc/paper_files/paper/2016/hash/5680522b8e2bb01943234bce7bf84534-Abstract.html)| a solution to explain both majority and minority groups in the dataset |
+
 ### Basics: Articles
 
 |Title|Link|Description|
 |-----|----|-----------|
-|Feature Visualization| [Link](https://distill.pub/2017/feature-visualization/)| A visual guid to feature visualization.|
+|Feature Visualization| [Link](https://distill.pub/2017/feature-visualization/)| A visual guid to feature visualization. (Maximum mean discrepancy MMD/ Witness Function)|
 
 
 ### Basics: Videos
