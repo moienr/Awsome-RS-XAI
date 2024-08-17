@@ -4,7 +4,11 @@ This repository contains a list of resources related to Explainable AI (XAI) in 
 
 Feel free to contribute to this repository by creating a pull request.
 
-
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++ Table ++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
 
 ## Table of Contents
 
@@ -14,14 +18,27 @@ Feel free to contribute to this repository by creating a pull request.
     - [Basics: Courses and Workshops](#basics-courses-and-workshops)
     - [Basics: Papers](#basics-papers)
     - [Basics: Articles](#basics-articles)
+    - [Basics: Videos](#basics-videos)
 
-- [Courses and Workshops](#courses-and-workshops)
+- [XAI in Remote Sensing](#xai-in-remote-sensing) Resources related to XAI in Remote Sensing.
+    - [Courses and Workshops](#courses-and-workshops)
+    - [Papers](#papers)
+    - [Datasets](#datasets)
+    - [Repositories](#repositories)
 
-- [Papers](#papers)
 
-- [Datasets](#datasets)
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++ Basics ++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
 
-- [Repositories](#repositories)
+---
+
+---
+
+---
+
 
 
 ## XAI Basics
@@ -51,20 +68,40 @@ This section contains non-remote sensing specific resources for starting with XA
 |Feature Visualization| [Link](https://distill.pub/2017/feature-visualization/)| A visual guid to feature visualization.|
 
 
-## Courses and Workshops
+### Basics: Videos
+
+|Title|Link|Description|
+|-----|----|-----------|
+|Partial Dependence Plots| [Link](https://www.youtube.com/watch?v=uQQa3wQgG_s)| A very intuitive explanation of Partial Dependence Plots.|
+
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++ remote sensing ++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
+
+---
+
+---
+
+---
+
+## XAI in Remote Sensing
+
+### Courses and Workshops
 |Course Name|Author|Date|Link|Description|
 |-----------|------|----|----|-----------|
 |Explainable Machine Learning|Ribana Roscher|Oct 12, 2022|[Playlist](https://www.youtube.com/watch?v=jxNhqSBFxfQ&list=PLzvRrSe1_bqgUQjKezJ63ZQ-OsiN4GVxR)||
 
 
-## Papers
+### Papers
 
 |Title|Authors|Date|Link|Description|
 |-----|-------|----|----|-----------|
 | jUngle-Net | T. Stomberg, I. Weber, M. Schmitt, and R. Roscher | 17 Jun 2021 | [Link](https://isprs-annals.copernicus.org/articles/V-3-2021/317/2021/) | A UNet-ResNet hybrid architecture for Scene Classification, that offers insights into the model, by having a deep layer with the same resolution as the input image.|
 
 
-## Datasets
+### Datasets
 
-## Repositories
+### Repositories
 
