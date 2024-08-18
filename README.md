@@ -103,6 +103,8 @@ This section contains non-remote sensing specific resources for starting with XA
 |Title|Authors|Date|Link|Description|
 |-----|-------|----|----|-----------|
 | jUngle-Net | T. Stomberg, I. Weber, M. Schmitt, and R. Roscher | 17 Jun 2021 | [Link](https://isprs-annals.copernicus.org/articles/V-3-2021/317/2021/) | A UNet-ResNet hybrid architecture for Scene Classification, that offers insights into the model, by having a deep layer with the same resolution as the input image.|
+| What identifies a whale by its fluke? on the benefit of interpretable machine learning for whale identification | J Kierdorf, J Garcke, J Behley, T Cheeseman, R Roscher | 2020 | [Link](https://www.researchgate.net/publication/343401524_WHAT_IDENTIFIES_A_WHALE_BY_ITS_FLUKE_ON_THE_BENEFIT_OF_INTERPRETABLE_MACHINE_LEARNING_FOR_WHALE_IDENTIFICATION) | Uses Occlusion Sensitivity Maps (OSM) the important parts of the fluke for the classification.|
+
 
 
 ### Datasets
