@@ -61,9 +61,11 @@ This section contains non-remote sensing specific resources for starting with XA
 
 ### Basics: Papers
 
-|Title|Authors|Link|Description|
-|-----|-------|----|-----------|
-|Examples are not enough, learn to criticize! Criticism for Interpretability| [Link](https://papers.nips.cc/paper_files/paper/2016/hash/5680522b8e2bb01943234bce7bf84534-Abstract.html)| a solution to explain both majority and minority groups in the dataset |
+|Title|Authors|Date|Link|Description|
+|-----|-------|----|----|-----------|
+|Examples are not enough, learn to criticize! Criticism for Interpretability|Been Kim, Rajiv Khanna, Oluwasanmi O. Koyejo|2016| [Link](https://papers.nips.cc/paper_files/paper/2016/hash/5680522b8e2bb01943234bce7bf84534-Abstract.html)| a solution to explain both majority and minority groups in the dataset |
+| What identifies a whale by its fluke? on the benefit of interpretable machine learning for whale identification | J Kierdorf, J Garcke, J Behley, T Cheeseman, R Roscher | 2020 | [Link](https://www.researchgate.net/publication/343401524_WHAT_IDENTIFIES_A_WHALE_BY_ITS_FLUKE_ON_THE_BENEFIT_OF_INTERPRETABLE_MACHINE_LEARNING_FOR_WHALE_IDENTIFICATION) | Uses Occlusion Sensitivity Maps (OSM) the important parts of the fluke for the classification.|
+|RISE: Randomized Input Sampling for Explanation of Black-box Models | Vitali Petsiuk, Abir Das, Kate Saenko | 2018 | [Link](https://arxiv.org/abs/1806.07421) | This is an extention on Occlusion Sensitivity Maps (OSM) that uses random fading masks to find the important parts of the image for the classification.|
 
 ### Basics: Articles
 
@@ -78,17 +80,19 @@ This section contains non-remote sensing specific resources for starting with XA
 |-----|----|-----------|
 |Partial Dependence Plots| [Link](https://www.youtube.com/watch?v=uQQa3wQgG_s)| A very intuitive explanation of Partial Dependence Plots.|
 
+---
+
+---
+
+---
+
+
 <!--
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++ remote sensing ++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -->
 
----
-
----
-
----
 
 ## XAI in Remote Sensing
 
@@ -103,7 +107,7 @@ This section contains non-remote sensing specific resources for starting with XA
 |Title|Authors|Date|Link|Description|
 |-----|-------|----|----|-----------|
 | jUngle-Net | T. Stomberg, I. Weber, M. Schmitt, and R. Roscher | 17 Jun 2021 | [Link](https://isprs-annals.copernicus.org/articles/V-3-2021/317/2021/) | A UNet-ResNet hybrid architecture for Scene Classification, that offers insights into the model, by having a deep layer with the same resolution as the input image.|
-| What identifies a whale by its fluke? on the benefit of interpretable machine learning for whale identification | J Kierdorf, J Garcke, J Behley, T Cheeseman, R Roscher | 2020 | [Link](https://www.researchgate.net/publication/343401524_WHAT_IDENTIFIES_A_WHALE_BY_ITS_FLUKE_ON_THE_BENEFIT_OF_INTERPRETABLE_MACHINE_LEARNING_FOR_WHALE_IDENTIFICATION) | Uses Occlusion Sensitivity Maps (OSM) the important parts of the fluke for the classification.|
+
 
 
 
