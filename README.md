@@ -54,6 +54,10 @@ This section contains non-remote sensing specific resources for starting with XA
 
 ### Basics: Books
 
+| Book Name | Chapter | Author | Date | Description |
+|-----------|---------|--------|------|-------------|
+| Probabilistic Machine Learning - Advanced Topics | 27-Discovery methods | Kevin P. Murphy | 2023 | I believe that learning about the `concept discovery` methods is the future of XAI. This book offers a chapter on the topic. |
+
 ### Basics: Courses and Workshops
 |Course Name|Author|Date|Link|Description|
 |-----------|------|----|----|-----------|
@@ -66,6 +70,9 @@ This section contains non-remote sensing specific resources for starting with XA
 |Examples are not enough, learn to criticize! Criticism for Interpretability|Been Kim, Rajiv Khanna, Oluwasanmi O. Koyejo|2016| [Link](https://papers.nips.cc/paper_files/paper/2016/hash/5680522b8e2bb01943234bce7bf84534-Abstract.html)| a solution to explain both majority and minority groups in the dataset |
 | What identifies a whale by its fluke? on the benefit of interpretable machine learning for whale identification | J Kierdorf, J Garcke, J Behley, T Cheeseman, R Roscher | 2020 | [Link](https://www.researchgate.net/publication/343401524_WHAT_IDENTIFIES_A_WHALE_BY_ITS_FLUKE_ON_THE_BENEFIT_OF_INTERPRETABLE_MACHINE_LEARNING_FOR_WHALE_IDENTIFICATION) | Uses Occlusion Sensitivity Maps (OSM) the important parts of the fluke for the classification.|
 |RISE: Randomized Input Sampling for Explanation of Black-box Models | Vitali Petsiuk, Abir Das, Kate Saenko | 2018 | [Link](https://arxiv.org/abs/1806.07421) | This is an extention on Occlusion Sensitivity Maps (OSM) that uses random fading masks to find the important parts of the image for the classification.|
+|Grad-CAM | Ramprasaath R. Selvaraju, et al. | 2016 | [Link](https://arxiv.org/abs/1610.02391) | a technique to visualize the important parts of the image for the classification.|
+|Layer-Wise Relevance Propagation: An Overview | Gr´egoire Montavon et al. |2019| [Link](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10) | |
+|Quantitative Testing with Concept Activation Vectors (TCAV)| Been Kim et al. | 2018 | [Link](https://arxiv.org/abs/1711.11279) | [Medium Article](https://medium.com/@ellie.arbab/t-what-40d72a0012ed)|
 
 ### Basics: Articles
 
@@ -106,7 +113,7 @@ This section contains non-remote sensing specific resources for starting with XA
 
 |Title|Authors|Date|Link|Description|
 |-----|-------|----|----|-----------|
-| jUngle-Net | T. Stomberg, I. Weber, M. Schmitt, and R. Roscher | 17 Jun 2021 | [Link](https://isprs-annals.copernicus.org/articles/V-3-2021/317/2021/) | A UNet-ResNet hybrid architecture for Scene Classification, that offers insights into the model, by having a deep layer with the same resolution as the input image.|
+| jUngle-Net | T. Stomberg, I. Weber, M. Schmitt, and R. Roscher | 17 Jun 2021 | [Link](https://isprs-annals.copernicus.org/articles/V-3-2021/317/2021/) | A UNet-ResNet hybrid architecture for Scene Classification, that offers insights into the model, by having a deep layer with the same resolution as the input image. - This also a good example on concept discovery.|
 
 
 
