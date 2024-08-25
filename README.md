@@ -122,6 +122,9 @@ This section contains non-remote sensing specific resources for starting with XA
 ### Datasets
 
 ### Repositories
+|Name|Link|Description|
+|----|----|-----------|
+|activation space occlusion sensitivity (ASOS)|[Link](https://gitlab.jsc.fz-juelich.de/kiste/asos)| from the paper: Recognizing protected and anthropogenic patterns in landscapes using interpretable machine learning and satellite imagery.|
 
 ### People
 |Name|Link|Description|
