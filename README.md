@@ -25,6 +25,7 @@ Feel free to contribute to this repository by creating a pull request.
     - [Papers](#papers)
     - [Datasets](#datasets)
     - [Repositories](#repositories)
+    - [People](#people)
 
 
 <!--
@@ -122,3 +123,8 @@ This section contains non-remote sensing specific resources for starting with XA
 
 ### Repositories
 
+### People
+|Name|Link|Description|
+|----|----|-----------|
+|Ribana Roscher| [Link](https://www.researchgate.net/profile/Ribana-Roscher)| XAI in Remote Sensing.|
+|Timo Tjaden Stomberg| [Link](https://scholar.google.de/citations?hl=de&user=sIDXywcAAAAJ&view_op=list_works&sortby=pubdate)| Good reseach on wilderness with XAI.|
